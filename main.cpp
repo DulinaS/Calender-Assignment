@@ -276,6 +276,6 @@ int main(){
         }
 
     }while((selection != 6));
-
+    cout<<"Exiting the programmee!"<<endl;
     return 0;
 }
